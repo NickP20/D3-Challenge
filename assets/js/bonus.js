@@ -108,7 +108,7 @@ function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
     xLabel = "Median Income:";
   }
   else {
-    xLabel = "Age";
+    xLabel = "Median Age";
   }
   if (chosenYAxis === "healthcare") {
     yLabel = "Lacks Healthcare:";
