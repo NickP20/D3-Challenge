@@ -10,8 +10,9 @@ To visualize this information an interactive graph was created utilizing 2014 AC
 
 ## Graph 1 
 An initial scatter plot was created to view the correlation between Healthcare vs. Poverty, with each state abbreviation provided in a circle on the graph. 
-
+![Graph1](https://github.com/NickP20/D3-Challenge/blob/main/images/Graph1.PNG)
 
 ## Graph 2
 A second graph was created to analyze additional parameters. You may now see the correlation between different X and Y parameters. 
 In addition to the added X and Y parameters which shift the graph, you may also hover over any of the state abbreviations for more information on that states particular values. 
+![Graph2](https://github.com/NickP20/D3-Challenge/blob/main/images/Graph2.PNG)
